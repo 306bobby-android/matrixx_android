@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="306bobby"
-           fetch="https://github.com/306bobby-android"
-           sync-c="true"
-           sync-j="4"
-           revision="refs/heads/14.0" />
-
   <remote  name="matrixx"
            fetch="https://github.com/ProjectMatrixx"
            sync-c="true"

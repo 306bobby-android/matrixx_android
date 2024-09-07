@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="306bobby"
+           fetch="https://github.com/306bobby-android"
+           sync-c="true"
+           sync-j="4" />
+
+  <project path="device/google/bramble" remote="306bobby" name="matrixx_device_google_bramble" revision="14.0" />
+  <project path="device/google/redbull" remote="github" name="crdroidandroid/android_device_google_redbull" revision="14.0" />
+  <project path="lineage/scripts" remote="github" name="LineageOS/scripts" revision="main" />
+  <project path="kernel/google/redbull" remote="github" name="crdroidandroid/android_kernel_google_redbull" revision="14.0" />
+  <project path="device/google/gs-common" remote="github" name="LineageOS/android_device_google_gs-common" revision="lineage-21" />
+  <project path="packages/apps/PixelParts" remote="306bobby" name="packages_apps_PixelParts" revision="udc" />
+  <project path="device/google/redfin" remote="306bobby" name="matrixx_device_google_redfin" revision="14.0" />
+  <project path="device/google/barbet" remote="306bobby" name="matrixx_device_google_barbet" revision="14.0" />
+</manifest>
